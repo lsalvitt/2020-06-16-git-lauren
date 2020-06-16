@@ -1,5 +1,7 @@
 # 2020-06-16 Git
 
+## Local
+
 - `git init`: create a git repository in the current directory
 - `git status`: tells you what is going on
 - `git add <filename>`: will put files <filename> in the staging area
