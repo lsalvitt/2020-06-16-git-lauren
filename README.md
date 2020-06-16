@@ -10,3 +10,7 @@
 - `git checkout xxxxxxx <filename>`: recovers old versions of files, need first 7 digits of version
 - `git diff HEAD ~1`: will compare with first previous version. Can change this number to compared versions further back, or use the version 7 digit code.
  
+## Remotes
+
+-`git remote add <name> <url>`: gives the remote URL a short name
+- `git push <where> <what>: takes the master branch on your computer and pushes it to the origin
